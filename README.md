@@ -17,3 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 Build Badge:
 [![Build status](https://build.appcenter.ms/v0.1/apps/55575737-8079-4335-a7fe-7da3af961a6b/branches/main/badge)](https://appcenter.ms)
+
+Download APP Public:
+https://install.appcenter.ms/orgs/pbp-app/apps/shopping-list/distribution_groups/public
